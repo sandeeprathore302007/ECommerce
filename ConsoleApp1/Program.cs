@@ -4,23 +4,7 @@ namespace ShopConsole
 {
     class Program
     {
-        /*static CustomerList customerList = new CustomerList();
-        static ArticleList articleList = new ArticleList();
-        static InvoiceList invoiceList = new InvoiceList();
-        static void Main(string[] args)
-        {
-            // Customer default data
-            Customer customer1 = new Customer(1, "Juan", 3216573456);
-            Customer customer2 = new Customer(2, "Pepito", 3218764865);
-            Customer customer3 = new Customer(3, "Marco", 3146578934);
-            Customer customer4 = new Customer(4, "Andres", 3135555567);
-            Customer customer5 = new Customer(5, "Sandro", 3203217676);
-
-            //Article default data
-            Article article1 = new Article…
-[5:43 pm, 18 / 01 / 2024] VINAY Masstech: using System;
-            using System.Collections.Generic;
-            using System.Linq; */
+        
 
 class User
         {
